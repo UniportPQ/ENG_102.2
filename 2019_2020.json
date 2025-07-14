@@ -1,0 +1,79 @@
+[{
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Engineering Drawing II",
+    "code": "ENG 102.2",
+    "session": "2019/2020",
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "A Cone of diameter 60mm and height 70mm is resting on the ground on its base. It is cut by a section plane perpendicular to the vertical plane (VP) and inclined 45° to the horizontal plane (HP) and cutting the axis at a point 40mm from the bottom. Draw the front view, section top and true shape of section.",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Truncated Cone Projections",
+      "content": "https://lh3.googleusercontent.com/d/14ZUa665jA23hFePKVGVHNodVGiUla6l4"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. <b>Front View</b>: Draw full cone (height 70mm, Ø60mm) with cutting plane at 40mm (45° to HP)<br>2. <b>Section Top View</b>: Project elliptical section (major axis = 60mm/cos45° = 84.85mm)<br>3. <b>True Shape</b>: Construct auxiliary view showing actual ellipse (minor axis = distance between extreme generators)<br><br>YouTube videos coming soon.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Figure 1 shows an object in a pictorial view. Draw the front view looking in the direction X, the top view, and the right hand side view of the object. We assume first angle projection and all dimensions in mm.",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "First Angle Orthographic Views",
+      "content": "https://lh3.googleusercontent.com/d/14p3n95F_kRf-CJ7S3oNGNJjqIuC9syrB"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>First Angle Projection Rules:</b><br>1. <b>Front View</b>: Primary view in direction X<br>2. <b>Top View</b>: Placed <u>below</u> front view (first angle)<br>3. <b>Right Side View</b>: Positioned to the <u>left</u> of front view<br>4. Show all hidden features with dashed lines<br><br>YouTube videos coming soon.</p></div>"
+    }
+  },
+  {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/14sZ65zkCsW_Lu9hqSuObRaBfICy6zwXn",
+    "Caption": "Figure 1. Use this to answer Question 2",
+    "alt": "Figure 1"
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Prepare an isometric drawing of the object shown in two views in Figure 2. Objects in the first angle projection .",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "isometric drawing",
+      "content": "https://lh3.googleusercontent.com/d/146qahQpOg3k4Hm5WNlYz_nMnDlVxfD-R"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. <b>Front View</b>: Draw full cone (height 70mm, Ø60mm) with cutting plane at 40mm (45° to HP)<br>2. <b>Section Top View</b>: Project elliptical section (major axis = 60mm/cos45° = 84.85mm)<br>3. <b>True Shape</b>: Construct auxiliary view showing actual ellipse (minor axis = distance between extreme generators)<br><br>YouTube videos coming soon.</p></div>"
+    }
+  },
+  {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1523Te8Z-r4GFlGJ2TTW5UYGxZ8h3aqvv",
+    "Caption": "Figure 2. Use this to answer Question 4",
+    "alt": "Figure 2"
+  }
+  
+  
+]
