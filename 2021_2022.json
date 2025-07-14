@@ -1,0 +1,82 @@
+[{
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Engineering Drawing II",
+    "code": "ENG 102.2",
+    "session": "2021/2022",
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+    {
+        "type": "Question",
+        "name": "Question 1",
+        "Question": {
+            "content": "Figure 1 shows a bracket. Draw its elevation, looking in the direction of the arrow X, the top plan, and the right-hand end elevation.",
+            "type": "Drawing"
+        },
+        "Answer": {
+            "type": "img",
+            "alt": "Bracket Orthographic Views",
+            "content": "https://lh3.googleusercontent.com/d/165ynr6Y01oeCzTrPBrgFucdI1AmUGCMQ"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. <b>Elevation</b>: Draw front view aligned with arrow X direction<br>2. <b>Top Plan</b>: Project directly above elevation (third angle)<br>3. <b>End Elevation</b>: Show right-side profile view with all features<br><br>YouTube videos coming soon.</p></div>"
+        }
+    },
+    {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/15MVQfJJeXmbbknlObLgLAeRJaWcVGU1N",
+        "Caption": "Figure 1. Bracket for Question 1",
+        "alt": "Figure 1"
+    },
+    {
+        "type": "Question",
+        "name": "Question 2",
+        "Question": {
+            "content": "Figure 2 is an elevation of two cylinders meeting obliquely. Make a full development of cylinder.",
+            "type": "Drawing"
+        },
+        "Answer": {
+            "type": "img",
+            "alt": "Cylinder Development",
+            "content": "https://lh3.googleusercontent.com/d/15rYBPl__pQhFK1VOWwJQSK9TaBmA7MHE"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. Draw stretch-out line (π × diameter)<br>2. Divide base circle into 12 equal parts<br>3. Project heights from elevation to development<br>4. Account for oblique intersection curve<br><br>YouTube videos coming soon.</p></div>"
+        }
+    },
+    {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/15ZyA9JFbrXV6dF2enJMNqcyIQZVTv8jo",
+        "Caption": "Figure 2. Intersecting cylinders for Question 2",
+        "alt": "Figure 2"
+    },
+    {
+        "type": "Question",
+        "name": "Question 3",
+        "Question": {
+            "content": "Figure 3 is an isometric figure that produces its first angle orthographic projection.",
+            "type": "Drawing"
+        },
+        "Answer": {
+            "type": "img",
+            "alt": "First Angle Orthographic Projection",
+            "content": "https://lh3.googleusercontent.com/d/161oYOOw74xzjVzlsyz1YXOo9clA1K8Vu"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family:Arial;line-height:1.6'><p><b>First Angle Rules:</b><br>1. <b>Front View</b>: Primary view (most detailed face)<br>2. <b>Top View</b>: Below front view<br>3. <b>Side View</b>: Right side appears left of front view<br>4. Show hidden features with dashed lines<br><br>YouTube videos coming soon.</p></div>"
+        }
+    },
+    {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/1523Te8Z-r4GFlGJ2TTW5UYGxZ8h3aqvv",
+        "Caption": "Figure 3. Isometric for Question 3",
+        "alt": "Figure 3"
+    }
+]
