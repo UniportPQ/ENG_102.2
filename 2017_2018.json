@@ -11,92 +11,89 @@
     "content": "Answer All Questions"
   },
   {
-  "type": "Question",
-  "name": "Question 1",
-  "Question": {
-    "content": "Figure 1 shows an object in a pictorial view. Draw the front view looking in the direction S, the top view, the right hand side view, and the view section XX of the object.",
-    "type": "Drawing"
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Figure 1 shows an object in a pictorial view. Draw the front view looking in the direction S, the top view, the right hand side view, and the view section XX of the object.",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Orthographic and Sectional Views",
+      "content": "https://lh3.googleusercontent.com/d/13vqwqxenXUjlIjQ7ONSK89tPJyNOjygO"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. <b>Front View</b>: Project the view in direction S, showing all visible edges<br>2. <b>Top View</b>: Align vertically above front view (third angle projection)<br>3. <b>Right Side View</b>: Project from front view, maintaining height alignment<br>4. <b>Section XX</b>: Show cut surface with hatching, include all visible features behind cutting plane<br><br>YouTube videos coming soon.</p></div>"
+    }
   },
-  "Answer": {
-    "type": "img",
-    "alt": "Orthographic and Sectional Views",
-    "content": "https://lh3.googleusercontent.com/d/13vqwqxenXUjlIjQ7ONSK89tPJyNOjygO"
-  },
-  "Explanation": {
-    "type": "string",
-    "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. <b>Front View</b>: Project the view in direction S, showing all visible edges<br>2. <b>Top View</b>: Align vertically above front view (third angle projection)<br>3. <b>Right Side View</b>: Project from front view, maintaining height alignment<br>4. <b>Section XX</b>: Show cut surface with hatching, include all visible features behind cutting plane<br><br>YouTube videos coming soon.</p></div>"
-  }
-},
   {
     "type": "img",
     "content": "https://lh3.googleusercontent.com/d/176NF1HOFJuSowqyGZoRS4O3EY4PHVXws",
     "Caption": "Figure 1. Use this to answer Question 1",
     "alt": "Figure 1"
   },
-  
   {
-  "type": "Question",
-  "name": "Question 2",
-  "Question": {
-    "content": "Produce the oblique projection of the object represented by the views in Figure 2.",
-    "type": "Drawing"
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Produce the oblique projection of the object represented by the views in Figure 2.",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Oblique Projection",
+      "content": "https://lh3.googleusercontent.com/d/"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. Choose <b>Cavalier projection</b> (full depth) or <b>Cabinet projection</b> (half-depth)<br>2. Draw front face true to size from given views<br>3. Project receding lines at 30°-45° angle, maintaining parallel projection<br>4. Add depth dimensions (use scale factor 0.5 for Cabinet)<br><br>YouTube videos coming soon.</p></div>"
+    }
   },
-  "Answer": {
-    "type": "img",
-    "alt": "Oblique Projection",
-    "content": "https://lh3.googleusercontent.com/d/"
-  },
-  "Explanation": {
-    "type": "string",
-    "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. Choose <b>Cavalier projection</b> (full depth) or <b>Cabinet projection</b> (half-depth)<br>2. Draw front face true to size from given views<br>3. Project receding lines at 30°-45° angle, maintaining parallel projection<br>4. Add depth dimensions (use scale factor 0.5 for Cabinet)<br><br>YouTube videos coming soon.</p></div>"
-  }
-},
   {
     "type": "img",
     "content": "https://lh3.googleusercontent.com/d/178N45yBiYAsYSqcn8nyJPU23Nd4ExTPE",
     "Caption": "Figure 2. Use this to answer Question 2",
     "alt": "Figure 2"
   },
-{
-  "type": "Question",
-  "name": "Question 3",
-  "Question": {
-    "content": "A cone of diameter 60mm and height 70mm is resting on the ground on its base. It is cut by section plane perpendicular to the vertical plane (VP) and inclined at 45 degree to the horizontal plane (HP) and cutting the axis at a point 40mm from the bottom. Draw the front view, section top view, and true shape of section.",
-    "type": "Drawing"
-  },
-  "Answer": {
-    "type": "img",
-    "alt": "Truncated Cone Views",
-    "content": "https://lh3.googleusercontent.com/d/145aRYa17V2YpM-y4hqcrKqu7Nhwp1tfV"
-  },
-  "Explanation": {
-    "type": "string",
-    "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. <b>Front View</b>: Draw full cone (height 70mm, Ø60mm), mark cutting plane 40mm from base at 45°<br>2. <b>Section Top View</b>: Show elliptical section with major axis = 60mm/cos45°<br>3. <b>True Shape</b>: Construct ellipse using auxiliary view method (major axis = 60mm, minor axis depends on cut position)<br><br>YouTube videos coming soon.</p></div>"
-  }
-},
   {
-  "type": "Question",
-  "name": "Question 4",
-  "Question": {
-    "content": "Prepare an isometric drawing of the object shown in two views in figure 3. Object is in the first angle projection.",
-    "type": "Drawing"
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "A cone of diameter 60mm and height 70mm is resting on the ground on its base. It is cut by section plane perpendicular to the vertical plane (VP) and inclined at 45 degree to the horizontal plane (HP) and cutting the axis at a point 40mm from the bottom. Draw the front view, section top view, and true shape of section.",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Truncated Cone Views",
+      "content": "https://lh3.googleusercontent.com/d/145aRYa17V2YpM-y4hqcrKqu7Nhwp1tfV"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. <b>Front View</b>: Draw full cone (height 70mm, Ø60mm), mark cutting plane 40mm from base at 45°<br>2. <b>Section Top View</b>: Show elliptical section with major axis = 60mm/cos45°<br>3. <b>True Shape</b>: Construct ellipse using auxiliary view method (major axis = 60mm, minor axis depends on cut position)<br><br>YouTube videos coming soon.</p></div>"
+    }
   },
-  "Answer": {
-    "type": "img",
-    "alt": "Isometric Drawing",
-    "content": "https://lh3.googleusercontent.com/d/146qahQpOg3k4Hm5WNlYz_nMnDlVxfD-R"
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Prepare an isometric drawing of the object shown in two views in figure 3. Object is in the first angle projection.",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Isometric Drawing",
+      "content": "https://lh3.googleusercontent.com/d/146qahQpOg3k4Hm5WNlYz_nMnDlVxfD-R"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. Extract dimensions from given orthographic views (first angle)<br>2. Draw isometric axes (120° between X,Y,Z)<br>3. Construct object starting from front face, using box method if needed<br>4. Apply foreshortening (scale 0.816) or draw true length for simplicity<br><br>YouTube videos coming soon.</p></div>"
+    }
   },
-  "Explanation": {
-    "type": "string",
-    "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. Extract dimensions from given orthographic views (first angle)<br>2. Draw isometric axes (120° between X,Y,Z)<br>3. Construct object starting from front face, using box method if needed<br>4. Apply foreshortening (scale 0.816) or draw true length for simplicity<br><br>YouTube videos coming soon.</p></div>"
-  }
-}
-  ,
-    {
+  {
     "type": "img",
     "content": "https://lh3.googleusercontent.com/d/17BHLnmH90XabRE0TK_CLE47eWEt5K5P9",
     "Caption": "Figure 3. Use this to answer Question 4",
     "alt": "Figure 3"
   }
-
 ]

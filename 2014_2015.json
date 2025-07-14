@@ -8,90 +8,88 @@
   },
   {
     "type": "Instruction",
-    "content": ["Answer <b>Question 1 </b>and any other two.","All dimensions are in <b>mm</b>"]
+    "content": ["Answer <b>Question 1 </b>and any other two.", "All dimensions are in <b>mm</b>"]
   },
   {
-  "type": "Question",
-  "name": "Question 1(a)",
-  "Question": {
-    "content": "Draw in third angle projection the orthographic view of the part shown in Fig. 1(a), showing:<br> i) A plan, <br>ii) A front elevation in the direction of arrow X, <br>iii) A left side view.",
-    "type": "Drawing"
+    "type": "Question",
+    "name": "Question 1(a)",
+    "Question": {
+      "content": "Draw in third angle projection the orthographic view of the part shown in Fig. 1(a), showing:<br> i) A plan, <br>ii) A front elevation in the direction of arrow X, <br>iii) A left side view.",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Third Angle Orthographic Views",
+      "content": "https://lh3.googleusercontent.com/d/12ywpNe-lwWVrwIZ9e0RCGhD8VSMJOVGa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p>In <b>third angle projection</b>, the object is placed in the third quadrant. The <b>plan (top view)</b> is drawn above the <b>front elevation</b>, and the <b>left side view</b> is placed to the left of the front view. Ensure all views are aligned and maintain consistent dimensions. Hidden lines (dashed) should show internal features.<br><br>YouTube videos coming soon.</p></div>"
+    }
   },
-  "Answer": {
-    "type": "img",
-    "alt": "Third Angle Orthographic Views",
-    "content": "https://lh3.googleusercontent.com/d/12ywpNe-lwWVrwIZ9e0RCGhD8VSMJOVGa"
-  },
-  "Explanation": {
-    "type": "string",
-    "content": "<div style='font-family:Arial;line-height:1.6'><p>In <b>third angle projection</b>, the object is placed in the third quadrant. The <b>plan (top view)</b> is drawn above the <b>front elevation</b>, and the <b>left side view</b> is placed to the left of the front view. Ensure all views are aligned and maintain consistent dimensions. Hidden lines (dashed) should show internal features.<br><br>YouTube videos coming soon.</p></div>"
-  }
-},
   {
     "type": "img",
     "content": "https://lh3.googleusercontent.com/d/12VCzQAWgcCvyeb482ejZq0wjzPEVfGJs",
     "Caption": "Figure 1a",
     "alt": "Figure 1a"
   },
-
-{
-  "type": "Question",
-  "name": "Question 1(b)",
-  "Question": {
-    "content": "Fig. 1(b) shows a projection of a machine part in first angle. Draw the isometric view of the part.",
-    "type": "Drawing"
+  {
+    "type": "Question",
+    "name": "Question 1(b)",
+    "Question": {
+      "content": "Fig. 1(b) shows a projection of a machine part in first angle. Draw the isometric view of the part.",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Isometric Drawing from First Angle",
+      "content": "https://lh3.googleusercontent.com/d/135eOqAxe1fmaFqpOXyWGgUp1oOax_G4y"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p>To convert a <b>first angle projection</b> to an <b>isometric view</b>, use a 30-degree grid for axes (X, Y, Z). Start with the front face and extrude depths proportionally. Omit hidden lines unless critical.<br><br>YouTube videos coming soon.</p></div>"
+    }
   },
-  "Answer": {
-    "type": "img",
-    "alt": "Isometric Drawing from First Angle",
-    "content": "https://lh3.googleusercontent.com/d/135eOqAxe1fmaFqpOXyWGgUp1oOax_G4y"
-  },
-  "Explanation": {
-    "type": "string",
-    "content": "<div style='font-family:Arial;line-height:1.6'><p>To convert a <b>first angle projection</b> to an <b>isometric view</b>, use a 30-degree grid for axes (X, Y, Z). Start with the front face and extrude depths proportionally. Omit hidden lines unless critical.<br><br>YouTube videos coming soon.</p></div>"
-  }
-},
   {
     "type": "img",
     "content": "https://lh3.googleusercontent.com/d/12caUQPR7tFRtnPvLJo_PvGhJfZBfsrHP",
     "Caption": "Figure 1b",
     "alt": "Figure 1b"
   },
-  
   {
-  "type": "Question",
-  "name": "Question 2",
-  "Question": {
-    "content": "From Fig.1b, Draw section A-A, Section B-B and Section C-C. Labe each appropriately",
-    "type": "Drawing"
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "From Fig.1b, Draw section A-A, Section B-B and Section C-C. Labe each appropriately",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Dimensioned Orthographic Views",
+      "content": "https://lh3.googleusercontent.com/d/139RiySOWjNQByofqza9vWx2Znsr6EopD"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Dimensioning rules</b>: Place dimensions outside views, use aligned/unidirectional methods, and avoid duplicates. Critical features (e.g., holes) must be fully defined.<br><br>YouTube videos coming soon.</p></div>"
+    }
   },
-  "Answer": {
-    "type": "img",
-    "alt": "Dimensioned Orthographic Views",
-    "content": "https://lh3.googleusercontent.com/d/139RiySOWjNQByofqza9vWx2Znsr6EopD"
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Figure 2 shows the front view of a truncated square pyramid. i) Draw the figure ii) Project a plan iii) Project an auxiliary view in the direction of arrow S",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Truncated Square Pyramid Projections",
+      "content": "https://lh3.googleusercontent.com/d/13Cun772R579LJOCFYaTvpSHvloMIrdaG"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. <b>Front View</b>: Replicate the truncated pyramid from Figure 2, showing the base and cut surface.<br>2. <b>Plan View</b>: Project the top-down view (square base with truncated portion shown as hidden lines).<br>3. <b>Auxiliary View (Direction S)</b>: Rotate the projection plane to show the true shape of the truncated face, using construction lines perpendicular to arrow S.<br><br>YouTube videos coming soon.</p></div>"
+    }
   },
-  "Explanation": {
-    "type": "string",
-    "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Dimensioning rules</b>: Place dimensions outside views, use aligned/unidirectional methods, and avoid duplicates. Critical features (e.g., holes) must be fully defined.<br><br>YouTube videos coming soon.</p></div>"
-  }
-},
-{
-  "type": "Question",
-  "name": "Question 3",
-  "Question": {
-    "content": "Figure 2 shows the front view of a truncated square pyramid. i) Draw the figure ii) Project a plan iii) Project an auxiliary view in the direction of arrow S",
-    "type": "Drawing"
-  },
-  "Answer": {
-    "type": "img",
-    "alt": "Truncated Square Pyramid Projections",
-    "content": "https://lh3.googleusercontent.com/d/13Cun772R579LJOCFYaTvpSHvloMIrdaG"
-  },
-  "Explanation": {
-    "type": "string",
-    "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. <b>Front View</b>: Replicate the truncated pyramid from Figure 2, showing the base and cut surface.<br>2. <b>Plan View</b>: Project the top-down view (square base with truncated portion shown as hidden lines).<br>3. <b>Auxiliary View (Direction S)</b>: Rotate the projection plane to show the true shape of the truncated face, using construction lines perpendicular to arrow S.<br><br>YouTube videos coming soon.</p></div>"
-  }
-},
   {
     "type": "img",
     "content": "https://lh3.googleusercontent.com/d/12s30GAqBKImrF6HoXfECJRY5Q_OZ7Rh1",
@@ -99,27 +97,26 @@
     "alt": "Figure 2"
   },
   {
-  "type": "Question",
-  "name": "Question 4",
-  "Question": {
-    "content": "A right circular cone of base radius 40mm and height 90mm is truncated as shown in fig.<br> i) Draw the view as shown <br> ii) Project a plan in third angle (show hidden details)<br>  iii) Construct the development of the truncated parts",
-    "type": "Drawing"
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "A right circular cone of base radius 40mm and height 90mm is truncated as shown in fig.<br> i) Draw the view as shown <br> ii) Project a plan in third angle (show hidden details)<br>  iii) Construct the development of the truncated parts",
+      "type": "Drawing"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Truncated Cone Solution",
+      "content": "https://lh3.googleusercontent.com/d/13EgDmks-nJF5wG8k-t1ps3Fk1Erd6gBM"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps to solve:</b><br>1. <b>Front View</b>: Draw the full cone (height 90mm, base radius 40mm), then show the truncation plane.<br>2. <b>Plan View</b>: In third angle projection, show the circular base (Ø80mm) with hidden lines indicating the truncated portion.<br>3. <b>Development</b>: Construct a sector with radius equal to the slant height (√(90²+40²)=98.5mm). Subtract the truncated portion's arc length.<br><br>YouTube videos coming soon.</p></div>"
+    }
   },
-  "Answer": {
-    "type": "img",
-    "alt": "Truncated Cone Solution",
-    "content": "https://lh3.googleusercontent.com/d/13EgDmks-nJF5wG8k-t1ps3Fk1Erd6gBM"
-  },
-  "Explanation": {
-    "type": "string",
-    "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps to solve:</b><br>1. <b>Front View</b>: Draw the full cone (height 90mm, base radius 40mm), then show the truncation plane.<br>2. <b>Plan View</b>: In third angle projection, show the circular base (Ø80mm) with hidden lines indicating the truncated portion.<br>3. <b>Development</b>: Construct a sector with radius equal to the slant height (√(90²+40²)=98.5mm). Subtract the truncated portion's arc length.<br><br>YouTube videos coming soon.</p></div>"
-  }
-},
   {
     "type": "img",
     "content": "https://lh3.googleusercontent.com/d/12rsLPyLAIOec6F57v80yP_FizAOuSqGU",
     "Caption": "Figure 3",
     "alt": "Figure 3"
   }
-  
 ]
