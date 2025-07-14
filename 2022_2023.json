@@ -1,0 +1,76 @@
+[{
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Engineering Drawing II",
+    "code": "ENG 102.2",
+    "session": "2022/2023",
+    "time": "120"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+    {
+        "type": "Question",
+        "name": "Question 1",
+        "Question": {
+            "content": "Given the mechanical object, draw the full section of view as seen from direction F. Clearly illustrate the internal features, dimensions and any relevant details that would be visible when viewing the object from F, all dimensions are in mm.",
+            "type": "Drawing"
+        },
+        "Answer": {
+            "type": "img",
+            "alt": "Full Section View F",
+            "content": "https://lh3.googleusercontent.com/d/16g4_88dwrBREaQCAbyHzP6I84E2Jg-xY"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. Draw cutting plane line along direction F<br>2. Show complete cross-section with 45° hatching (spacing 3mm)<br>3. Include all internal features (holes, ribs, etc.)<br>4. Dimension critical features per ISO standards<br><br>YouTube videos coming soon.</p></div>"
+        }
+    },
+    {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/16bA6pSnkSC9-3i8YpW9FV5e4UBLhINRd",
+        "Caption": "Mechanical object for Question 1",
+        "alt": "Figure 1"
+    },
+    {
+        "type": "Question",
+        "name": "Question 2",
+        "Question": {
+            "content": "A hexagonal cone with 30mm sides is cut by a plane inclined at 40 degrees to the horizontal mid-way of the height. Draw the sectional top view and the true shape of the section.",
+            "type": "Drawing"
+        },
+        "Answer": {
+            "type": "img",
+            "alt": "Hexagonal Cone Section",
+            "content": "https://lh3.googleusercontent.com/d/16h3vWfoNIng7DuNOxxtJhXKaZpgC73OZ"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family:Arial;line-height:1.6'><p><b>Steps:</b><br>1. Construct hexagonal cone (base=30mm sides, height=H)<br>2. Draw cutting plane at H/2, 40° to HP<br>3. <b>Sectional Top View</b>: Show truncated hexagonal shape<br>4. <b>True Shape</b>: Use auxiliary view method to plot the irregular heptagon<br><br>YouTube videos coming soon.</p></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 3",
+        "Question": {
+            "content": "Figure 2 is an isometric figure that produces its first angle orthographic projection.",
+            "type": "Drawing"
+        },
+        "Answer": {
+            "type": "img",
+            "alt": "First Angle Orthographic Projection",
+            "content": "https://lh3.googleusercontent.com/d/16idppYOHzCrBFL_KiJbhGp6ByL8VBD4T"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family:Arial;line-height:1.6'><p><b>First Angle Rules:</b><br>1. <b>Front View</b>: Principal view (most detailed face)<br>2. <b>Top View</b>: Positioned <u>below</u> front view<br>3. <b>Side View</b>: Right side appears to <u>left</u> of front view<br>4. Show hidden features with dashed lines<br><br>YouTube videos coming soon.</p></div>"
+        }
+    },
+    {
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/15SNNSqw0KxefIsSY3I9PalTRvkoi0bSZ",
+        "Caption": "Isometric for Question 3",
+        "alt": "Figure 3"
+    }
+]
